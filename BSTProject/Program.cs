@@ -10,6 +10,14 @@ namespace BSTProject
     {
         static void Main(string[] args)
         {
+            BinarySearchTree test = new BinarySearchTree();
+
+            test.Add(60);
+            test.Add(70);
+            test.Add(45);
+            test.Add(80);
+            test.Add(35);
+            
         }
     }
 }
